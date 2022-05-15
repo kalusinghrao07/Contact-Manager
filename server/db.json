@@ -1,0 +1,100 @@
+{
+  "contacts": [
+    {
+      "id": "dnfkdnf",
+      "name": "Alex",
+      "company": "Google",
+      "email": "alex@google.com",
+      "title": "Developer",
+      "mobile": "6449444616161",
+      "photo": "https://e7.pngegg.com/pngimages/550/997/png-clipart-user-icon-foreigners-avatar-child-face.png",
+      "groupId": "1"
+    },
+    {
+      "id": "snflnf",
+      "name": "Joy",
+      "company": "Amazon",
+      "email": "joy@amazon.com",
+      "title": "Analyst II",
+      "mobile": "54641164946464",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbBMwRJfFeRL23d-4MB-yq_6NyJFUw7zprYQ&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "id": "almdosopo",
+      "name": "Max",
+      "company": "Adobe",
+      "email": "max@adobe.com",
+      "title": "Senior Developer",
+      "mobile": "64464911044",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lQHH4lXf8gt-fEpRHuQPB4N8l5VgYHYezg&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "mfmoefpjeo",
+      "name": "Kathelina",
+      "company": "Microsoft",
+      "email": "kathelina@microsoft.com",
+      "title": "Human Resource",
+      "mobile": "78458965252",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWgg1mjdrrer5asSh0TiJKDkdg40UEHc3uw&usqp=CAU",
+      "groupId": "4"
+    },
+    {
+      "id": "dnfflflleflkdnf",
+      "name": "Mike",
+      "company": "Twitter",
+      "email": "mike@twitter.com",
+      "title": "Junior Developer",
+      "mobile": "78451025963",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW08EGZ7F9vKZqf08UjraQNwRD_8D1qrEK9zxyCmtd_rPM9PyQo5T5LS638oey6HWQK60&usqp=CAU",
+      "groupId": "5"
+    },
+    {
+      "id": "lsnfnosfn",
+      "name": "Alley",
+      "company": "TCS",
+      "email": "alley@tcs.com",
+      "title": "Intern",
+      "mobile": "784102589754",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQeCRGawzP7R24fjPOrS7eLUqM_ZesSA48IV-DA8rEFX0mPgwpzX0uwKvznbYmovNBt0&usqp=CAU",
+      "groupId": "6"
+    },
+    {
+      "id": "ywprjwjnc",
+      "name": "Lilly",
+      "company": "Flipkart",
+      "email": "lilly@flipkart.com",
+      "title": "CEO",
+      "mobile": "78410258963",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yec3rbbBTIp1t_l1QkY6UtOpVQAjUk3EvqXaCF9Z9s6uUu6MAqaQR_D6LOdtYQDvJT4&usqp=CAU",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
